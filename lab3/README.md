@@ -1,7 +1,6 @@
-# lab3_sx2261_zg2358
 COMS 4733 Comp Aspects of Robotics Lab 3, Fall 2019
-Shusen Xu, UNI: sx2261
-Zhilin Guo, UNI: zg2358
+Shusen Xu
+Zhilin Guo
 
 1) Usage:
     First, launch the vgraph world in Rviz:
