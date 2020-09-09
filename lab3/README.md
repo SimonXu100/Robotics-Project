@@ -1,4 +1,5 @@
 Shusen Xu
+Zhilin Guo
 
 1) Usage:
     First, launch the vgraph world in Rviz:
