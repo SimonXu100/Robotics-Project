@@ -1,5 +1,5 @@
-# Lab 5 - Follow Bot
-Zhilin Guo, zg2358 & Shusen Xu, sx2261
+Follow Bot
+Zhilin Guo & Shusen Xu
 
 Lab 5 for [COMSW4733 Computational Aspects of Robotics](http://www.cs.columbia.edu/~allen/F19/index.html) at Columbia University (Instructor: [Prof. Peter Allen](http://www.cs.columbia.edu/~allen/)).
 
