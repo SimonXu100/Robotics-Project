@@ -9,4 +9,6 @@
 
 ##project
 1. lab2: various algorithms of Bug2 Path Planning
-2. lab3:
+2. lab3: VGRAPH Navigation
+3. lab4： RRT Path Planning
+4. lab5: Autonomous Driving - FollowBot based on Robotics Vision
