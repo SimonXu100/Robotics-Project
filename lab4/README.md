@@ -1,7 +1,7 @@
 # Lab 4 - Rapidly-exploring Random Tree (RRT)
 Lab 4 for [COMSW4733 Computational Aspects of Robotics](https://www.cs.columbia.edu/~allen/F19/) at Columbia University (Instructor: [Prof. Peter Allen](http://www.cs.columbia.edu/~allen/)).
 
-## Author: Zhilin Guo (zg2358), Shusen Xu (sx2261)
+## Author: Zhilin Guo , Shusen Xu
 
 ## Usage
 Using Linux, with Python 2.7 and Pybullet installed, change into the directory where the code is located.\
