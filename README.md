@@ -7,7 +7,7 @@
 ### 5 Grasping
 
 
-##project
+## project
 1. lab2: various algorithms of Bug2 Path Planning
 2. lab3: VGRAPH Navigation
 3. lab4： RRT Path Planning
